@@ -9,7 +9,7 @@
 
 * :earth_americas: I am from Brazil, Paraíba;
 * :computer: I am an IT Technician and a student of Systems Analysis and Development;
-* :man: i'm lighteen years;
+* :man: i'm nineteen years;
 * :soccer: i love soccer, tecnology and games.
 
 ### Interests
