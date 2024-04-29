@@ -28,8 +28,8 @@
 ### About me
 
 * :earth_americas: I am from Brazil, Paraíba;
-* :computer: I am an IT Technician and a student of Systems Analysis and Development;
-* :man: i'm twenty years;
+* :computer: I have a degree in Systems Analysis and Development;
+* :man: I'm twenty one years old;
 * :soccer: i love soccer, tecnology and games.
 
 ### Interests
